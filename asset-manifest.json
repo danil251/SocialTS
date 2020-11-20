@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/danil251/SocialTS/static/css/main.6cdef90f.chunk.css",
+    "main.js": "/danil251/SocialTS/static/js/main.f154a904.chunk.js",
+    "main.js.map": "/danil251/SocialTS/static/js/main.f154a904.chunk.js.map",
+    "runtime-main.js": "/danil251/SocialTS/static/js/runtime-main.c886b32f.js",
+    "runtime-main.js.map": "/danil251/SocialTS/static/js/runtime-main.c886b32f.js.map",
+    "static/js/2.c4360ae8.chunk.js": "/danil251/SocialTS/static/js/2.c4360ae8.chunk.js",
+    "static/js/2.c4360ae8.chunk.js.map": "/danil251/SocialTS/static/js/2.c4360ae8.chunk.js.map",
+    "index.html": "/danil251/SocialTS/index.html",
+    "precache-manifest.2733babd2003ad7d2f4f4fd0c47a74c6.js": "/danil251/SocialTS/precache-manifest.2733babd2003ad7d2f4f4fd0c47a74c6.js",
+    "service-worker.js": "/danil251/SocialTS/service-worker.js",
+    "static/css/main.6cdef90f.chunk.css.map": "/danil251/SocialTS/static/css/main.6cdef90f.chunk.css.map",
+    "static/js/2.c4360ae8.chunk.js.LICENSE.txt": "/danil251/SocialTS/static/js/2.c4360ae8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c886b32f.js",
+    "static/js/2.c4360ae8.chunk.js",
+    "static/css/main.6cdef90f.chunk.css",
+    "static/js/main.f154a904.chunk.js"
+  ]
+}
